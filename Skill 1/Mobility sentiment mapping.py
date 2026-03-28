@@ -6,7 +6,7 @@ import csv
 import html
 
 # ========= CONFIG ==========
-API_KEY = "c375be95249b84c36ff65ecb196a6eb6"  # ←  Flickr API key
+API_KEY = ""  # ←  Flickr API key
 
 OUTPUT_HTML = "venice_flickr_mobility_sentiment_map_clickable.html"
 CSV_OUTPUT = "venice_sentiment_coordinates.csv"
